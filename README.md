@@ -6,7 +6,7 @@ A Java console application developed as a challenge for the Digital Innovation O
 
 ## 🚀 Sobre o Projeto
 
-[cite_start]Este é um projeto prático focado na aplicação dos fundamentos da linguagem Java[cite: 26]. O objetivo principal foi consolidar conceitos essenciais de lógica de programação e dar os primeiros passos na estruturação de código utilizando a Orientação a Objetos (OO).
+Este é um projeto prático focado na aplicação dos fundamentos da linguagem Java. O objetivo principal foi consolidar conceitos essenciais de lógica de programação e dar os primeiros passos na estruturação de código utilizando a Orientação a Objetos.
 
 A aplicação simula o funcionamento de um caixa eletrônico/terminal bancário simples através de uma interface interativa via console.
 
@@ -34,4 +34,4 @@ A aplicação simula o funcionamento de um caixa eletrônico/terminal bancário 
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio-banco.git](https://github.com/seu-usuario/nome-do-repositorio-banco.git)
+   git clone https://github.com/brunorafaeldev/dio-live-banco
