@@ -1,18 +1,37 @@
-## Getting Started
+# 🏦 Bank Control System (Sistema de Controle Bancário)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Java console application developed as a challenge for the Digital Innovation One (DIO) Java Developer bootcamp, simulating essential banking operations.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Sobre o Projeto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+[cite_start]Este é um projeto prático focado na aplicação dos fundamentos da linguagem Java[cite: 26]. O objetivo principal foi consolidar conceitos essenciais de lógica de programação e dar os primeiros passos na estruturação de código utilizando a Orientação a Objetos (OO).
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+A aplicação simula o funcionamento de um caixa eletrônico/terminal bancário simples através de uma interface interativa via console.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧠 Conceitos Aplicados
 
-## Dependency Management
+* **Lógica de Programação & Controle de Fluxo:** Uso de estruturas condicionais (`if/else`) e de repetição (`do-while` / `while`) para manter o menu ativo.
+* **Orientação a Objetos (OO):** Criação de classes para encapsular as regras de negócio bancárias.
+* **Interação via Terminal:** Uso da classe `Scanner` para capturar os dados de entrada do usuário de forma segura.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🛠️ Recursos Funcionais
+
+- [x] **Consulta de Saldo:** Exibição do saldo atualizado da conta.
+- [x] **Depósito:** Permite adicionar valores ao saldo da conta.
+- [x] **Saque:** Realiza a dedução de valores do saldo, com validação para impedir saques maiores do que o saldo disponível.
+- [x] **Menu Interativo:** Sistema de navegação simples via console para escolha das operações.
+
+## 💻 Tecnologias Utilizadas
+
+* **Linguagem:** Java
+* **Versionamento:** Git & GitHub
+
+---
+
+## ⚙️ Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/seu-usuario/nome-do-repositorio-banco.git](https://github.com/seu-usuario/nome-do-repositorio-banco.git)
